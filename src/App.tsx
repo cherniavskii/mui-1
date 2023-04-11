@@ -45,9 +45,9 @@ const App: FC = () => {
           onClick={undefined}
           showInMenu
           // props in question: nonce, onResize, onResizeCapture
-          nonce={undefined}
-          onResize={undefined}
-          onResizeCapture={undefined}
+          // nonce={undefined}
+          // onResize={undefined}
+          // onResizeCapture={undefined}
         />,
       ],
     },
